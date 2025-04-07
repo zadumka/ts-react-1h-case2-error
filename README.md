@@ -1,0 +1,1 @@
+# ts-react-1h-case2-error
